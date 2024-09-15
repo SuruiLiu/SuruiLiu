@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surui liu</h1>
 <h3 align="center">A passionate full-stack developer from China</h3>
 
-- 🌱 I’m currently learning **C# and .net**
+- 🌱 I’m currently learning **ASP.net**
 
 - 📫 How to reach me **lsruirui@163.com**
 
