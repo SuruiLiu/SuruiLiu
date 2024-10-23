@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surui liu</h1>
-<h3 align="center">A passionate full-stack developer from China</h3>
+<h3 align="center">A passionate full-stack developer and Dapp(Web3) developer from China</h3>
 
-- 🌱 I’m currently learning **ASP.net**
+- 🌱 I’m currently learning **golang and blockchain**
 
 - 📫 How to reach me **lsruirui@163.com**
 
