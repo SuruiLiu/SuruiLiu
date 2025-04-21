@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning **rust(solana) and blockchain development**
 
 - 📫 How to reach me **lsruirui@163.com**
-
-#### Github Stats 📊
-
-[![Suu's github stats](https://github-readme-stats.vercel.app/api?username=SuruiLiu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuruiLiu&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suruiliu&show_icons=true&theme=radical"
+    alt="SuruiLiu's GitHub stats" width="49%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuruiLiu&hide=C&layout=compact&theme=radical"
+    alt="Top Languages" width="49%"/>
+</p>
