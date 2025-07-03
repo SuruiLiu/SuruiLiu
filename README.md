@@ -7,7 +7,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 👨 I’m Surui Liu (Suu).
 - 😄 Pronouns: he/him/his.
 - 📧 How to reach me: lsruirui@163.com
-- 🌐 Website: https://trinhminhtriet.com
+- 🌐 Website: https://suruiliu.github.io/cs-notes/
 
 ## 🤝 Let's Connect! 
 
