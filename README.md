@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Surui liu</h1>
-<h3 align="center">A passionate full-stack developer and Dapp(Web3) developer from China</h3>
+## Glad to see you here!
 
-- 🌱 I’m currently learning **rust(solana) and blockchain development**
+Love interacting with the community, sharing knowledge, and learning new things.
 
-- 📫 How to reach me **lsruirui@163.com**
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suruiliu&show_icons=true&theme=radical"
-    alt="SuruiLiu's GitHub stats" width="49%" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuruiLiu&hide=C&layout=compact&theme=radical"
-    alt="Top Languages" width="49%"/>
-</p>
+**Talking about personal stuff:**
+
+- 👨 I’m Surui Liu (Suu).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: lsruirui@163.com
+- 🌐 Website: https://trinhminhtriet.com
+
+## 🤝 Let's Connect! 
+
+I'm always excited to connect with fellow developers and tech enthusiasts! 
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/suruiliu) - don't forget to mention you found me through GitHub! 😊
+
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suruiliu&theme=monokai" />
